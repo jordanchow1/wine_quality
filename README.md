@@ -4,7 +4,7 @@
 This project analyzes a dataset containing information on different wine samples, aiming to predict wine quality based on various physicochemical properties.
 
 ## Dataset
-The dataset used in this analysis contains chemical properties of red and white wines, along with quality scores assigned by wine tasters. The goal is to understand the relationship between these features and wine quality.
+The dataset used in this analysis contains chemical properties of red and white wines, along with quality scores assigned by wine tasters. The goal is to understand the relationship between these features and wine quality. (https://archive.ics.uci.edu/dataset/186/wine+quality)
 
 ## Features
 The dataset includes the following attributes:
