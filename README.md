@@ -8,18 +8,18 @@ The dataset used in this analysis contains chemical properties of red and white 
 
 ## Features
 The dataset includes the following attributes:
-- **Fixed acidity**
-- **Volatile acidity**
-- **Citric acid**
-- **Residual sugar**
-- **Chlorides**
-- **Free sulfur dioxide**
-- **Total sulfur dioxide**
-- **Density**
-- **pH**
-- **Sulphates**
-- **Alcohol**
-- **Quality (on a scale of 1 - 10)** (target variable)
+- **Fixed acidity**: The amount of non-volatile acids (such as tartaric acid) in wine.
+- **Volatile acidity**: The concentration of acetic acid, which can contribute to an unpleasant vinegar taste.
+- **Citric acid**: A naturally occurring acid that can add freshness and flavor to wine.
+- **Residual sugar**: The amount of sugar left after fermentation.
+- **Chlorides**: The amount of salt in the wine.
+- **Free sulfur dioxide**: The amount of SO₂ that protects wine from spoilage.
+- **Total sulfur dioxide**: The total SO₂ content, including both bound and free forms.
+- **Density**: The mass per unit volume, which can indicate sugar and alcohol content.
+- **pH**: A measure of acidity or alkalinity.
+- **Sulphates**: A wine preservative that can enhance flavor.
+- **Alcohol**: The percentage of alcohol content in the wine.
+- **Quality (target variable)**: A numerical rating of the wine (from 0 to 10).
 
 ## Analysis Steps
 The notebook follows these key steps:
