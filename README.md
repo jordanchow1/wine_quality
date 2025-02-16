@@ -28,3 +28,10 @@ The notebook follows these key steps:
 3. **Feature Engineering**: Transforming data for better model performance.
 4. **Model Training**: Applying machine learning models to predict wine quality.
 5. **Model Evaluation**: Assessing performance using metrics like accuracy and F1-score.
+
+## Classifiers
+1. Random Forest Classifier
+2. Logistic Regression
+
+## Results
+The Random Forest Classifier outperforms the logistic classifier, having an accuracy score of 0.67 (67% accuracy rate) and an f1 score of 0.38 (poor performance).
