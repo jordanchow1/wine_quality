@@ -27,7 +27,7 @@ The notebook follows these key steps:
 2. **Exploratory Data Analysis (EDA)**: Visualizing relationships between features and wine quality.
 3. **Feature Engineering**: Transforming data for better model performance.
 4. **Model Training**: Applying machine learning models to predict wine quality.
-5. **Model Evaluation**: Assessing performance using metrics like accuracy and F1-score.
+5. **Model Evaluation**: Assessing performance using metrics including accuracy and F1-score. Confusion matrix to visualize accuracy.
 
 ## Classifiers
 1. Random Forest Classifier
