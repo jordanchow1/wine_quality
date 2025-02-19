@@ -1,7 +1,7 @@
 # wine_quality
 
 ## Overview
-This project analyzes a dataset containing information on different wine samples, aiming to predict wine quality based on various physicochemical properties.
+This project explores the relationship between the chemical composition of wine and its perceived quality, using machine learning to predict wine quality scores. By analyzing a dataset containing red and white wine samples, we aim to identify key factors that influence wine quality and build predictive models that can assist winemakers in optimizing production.
 
 ## Dataset
 The dataset used in this analysis contains chemical properties of red and white wines, along with quality scores assigned by wine tasters. The goal is to understand the relationship between these features and wine quality. (https://archive.ics.uci.edu/dataset/186/wine+quality)
